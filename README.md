@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Stack Overflow 🔬
+### Stack Overflow 📚
 <a href="https://stackoverflow.com/users/9397053/akp"><img src="https://stackoverflow.com/users/flair/9397053.png?theme=dark" width="208" height="58" alt="profile for akp at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for akp at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 
