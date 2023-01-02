@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://stackoverflow.com/users/9397053/akp"><img src="https://stackoverflow.com/users/flair/9397053.png?theme=dark" width="208" height="58" alt="profile for akp at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for akp at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/9397053/akp"><img src="https://stackoverflow.com/users/flair/9397053.png?theme=white" width="208" height="58" alt="profile for akp at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for akp at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <!-- 
 <a href="https://app.daily.dev/akp"><img src="https://api.daily.dev/devcards/24d989258d95479695bdec6ccb78b7b6.png?r=r25" width="208" alt="akp's Dev Card"/></a> -->
  
